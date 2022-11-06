@@ -4,6 +4,7 @@ body {
     display: flex;
     flex-direction: column;
     font-family: 'Courier New', Courier, monospace;
+    transition: all .3s;
 }
 
 .header {
@@ -12,6 +13,7 @@ body {
     align-items: center;
     background-color: #f1f1f1;
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    transition: all .3s;
 }
 
 .header-title {
@@ -55,6 +57,7 @@ body {
     align-items: center;
     font-size: 164px;
     box-shadow: 0px 0px 12px -5px #000000;
+    transition: all .3s;
 }
 
 .keyname-container {
@@ -67,6 +70,7 @@ body {
     align-items: center;
     box-shadow: 0px 0px 12px -5px #000000;
     font-size: 18px;
+    transition: all .3s;
 }
 
 .darkmode-background {

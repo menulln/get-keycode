@@ -15,6 +15,7 @@ body {
 
 .header-title {
     font-family: 'Courier New', Courier, monospace;
+    padding-left: 48px;
 }
 
 .header-button {
